@@ -22,7 +22,7 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz, and were the first home computers designed with custom co-processor chips. This architecture enabled graphics and sound capabilities that were more advanced than contemporary machines at the time of release, and gaming on the platform was a major draw. Star Raiders is considered the platform's killer app.</text>
+				<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz</text>
 			</text>
 		
 			<text name="release_date" extra="true">

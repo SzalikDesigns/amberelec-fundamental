@@ -22,11 +22,9 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The CPS-1 or Capcom Play System 1 is a Capcom arcade card that debuted in 1988 with the game Forgotten Worlds. Street Fighter II, one of the most popular fighting games of all time, used this system.
-
-The system has fallen victim to a number of altered versions (bootlegs) of its games. In particular, there were so many modified versions of Street Fighter II that it was more common to find them than the original version, especially in Brazil. This issue would be resolved later with the release of CPS-2 and a complex protection scheme.</text>
+				<text>The CPS-1 or Capcom Play System 1 is a Capcom arcade card that debuted in 1988 with the game Forgotten Worlds. Street Fighter II, one of the most popular fighting games of all time, used this system.</text>
 			</text>
-		
+			
 			<text name="release_date" extra="true">
 				<text>Release Date: may 30, 1988</text>
 			</text>

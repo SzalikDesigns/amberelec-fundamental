@@ -22,8 +22,7 @@ author:			Juliano Dorigão
 			</image>
 
 			<text name="console_notes" extra="true">
-				<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE), and then by Milton Bradley Company after its purchase of GCE.
-Unlike other non-portable video game consoles, which connected to televisions and rendered raster graphics, the Vectrex has an integrated vector monitor which displays vector graphics. The Vectrex is monochrome and uses plastic screen overlays to simulate color and various static graphics and decorations. At the time, many of the most popular arcade games used vector displays, and through a licensing deal with Cinematronics, GCE was able to produce high-quality versions of arcade games such as Space Wars and Armor Attack.</text>
+				<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE), and then by Milton Bradley Company after its purchase of GCE.</text>
 			</text>
 
 			<text name="release_date" extra="true">

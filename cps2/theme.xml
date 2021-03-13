@@ -22,7 +22,7 @@ author:			Juliano Dorigão
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>CPS-2 or Capcom Play System 2 is an arcade card created by Capcom. It debuted in 1993 with the game Super Street Fighter II. CPS-2 consisted of two separate parts; a board A, which connects to JAMMA wiring and contains common components between the CPS-2 games, and a board B, which contains the game itself. The relationship between cards A and B is similar to that between a video game console and a cartridge. CPS-2 plates A and B are color-differentiated according to their region, and each plate only works when used with its counterpart of the same color.</text>
+				<text>CPS-2 or Capcom Play System 2 is an arcade card created by Capcom. It debuted in 1993 with the game Super Street Fighter II. CPS-2 consisted of two separate parts; a board A, which connects to JAMMA wiring and contains common components between the CPS-2 games, board B contains the game itself.</text>
 			</text>
 		
 			<text name="release_date" extra="true">

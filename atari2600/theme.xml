@@ -22,7 +22,7 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The Atari 2600 (or Atari Video Computer System before November 1982) is a home video game console by Atari, Inc. Released on September 11, 1977, it is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code, a format first used with the Fairchild Channel F video game console in 1976. This format contrasts with the older model of having non-microprocessor dedicated hardware, which could only play the games that were physically built into the unit.</text>
+				<text>The Atari 2600 (or Atari Video Computer System before November 1982) is a home video game console by Atari, Inc. Released on September 11, 1977, it is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code.</text>
 			</text>
 		
 			<text name="release_date" extra="true">

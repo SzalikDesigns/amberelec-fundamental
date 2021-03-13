@@ -22,7 +22,7 @@ author:			Grila
 			</image>
 	
 			<text name="console_notes" extra="true">
-				<text>The VIC-20 (Germany: VC-20; Japan: VIC-1001) is an 8-bit home computer. It was built by Commodore Business Machines with 5 KB of RAM and a MOS Technology 650 CPU. The external design of the machine was later leveraged on the Commodore 64 and C16. The VIC-20 was launched in Japan in 1980 and in the United States and Europe in 1981, approximately three years after the release of Commodore's first personal computer, PET.</text>
+				<text>The VIC-20 (Germany: VC-20; Japan: VIC-1001) is an 8-bit home computer. It was built by Commodore Business Machines with 5 KB of RAM and a MOS Technology 650 CPU. The external design of the machine was later leveraged on the Commodore 64 and C16. The VIC-20 was launched in Japan in 1980.</text>
 			</text>
 		
 			<text name="release_date" extra="true">

@@ -1,0 +1,39 @@
+
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="menu">
+        <menuText name="menutitle">
+            <fontPath>./core/fonts/ubuntu_bold.ttf</fontPath>
+            <fontSize>0.05</fontSize>
+            <color>fe0303</color>
+        </menuText>
+
+         <menuText name="menufooter">
+            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.05</fontSize>
+            <color>fe0303</color>
+        </menuText>
+
+       <menuText name="menutext">
+            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.04</fontSize>
+            <color>ffffff</color>
+            <separatorColor>ffffff</separatorColor>
+            <selectorColor>b3b3b3</selectorColor>
+            <selectorColorEnd>5d5d5d</selectorColorEnd>
+            <selectedColor>ffffff</selectedColor>
+        </menuText>
+
+         <menuTextSmall name="menutextsmall">
+            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.035</fontSize>
+            <color>fe0303</color>
+        </menuTextSmall>
+
+       <menuBackground name="menubg">
+            <color>000000</color>
+        </menuBackground>
+
+    </view>
+</theme>
