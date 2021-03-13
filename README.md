@@ -1,5 +1,4 @@
-# Fundamental, an EmulationStation 
-
+# Fundamental 
 Original theme by: Grila
 
 Rework for 351ELEC Project and rg351p/m devices by szalik
