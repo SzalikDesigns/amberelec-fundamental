@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:		Fundamental (dreamcast)
+version:		2.0
+author:			Juliano Dorigão
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../fundamental.xml</include>
+	
+	<view name="system, basic, detailed, grid, video">
+		<image name="logo">
+			<path>./logo.svg</path>
+		</image>
+	</view>
+	
+	<feature supported="carousel">
+		<view name="system">	
+			<image name="console" extra="true">
+				<path>./console.png</path>
+			</image>
+	
+			<text name="console_notes" extra="true">
+				<text>Wolfenstein 3D is a first-person shooter video game developed by id Software and published by Apogee Software and FormGen. ... The player traverses each of the game's levels to find an elevator to the next level or kill a final boss, fighting Nazi soldiers, dogs, and other enemies with knives and a variety of guns.</text>
+			</text>
+		
+			<text name="release_date" extra="true">
+				<text>Release Date: 1992</text>
+			</text>
+			
+		</view>
+	</feature>
+	
+</theme>
