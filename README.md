@@ -10,8 +10,6 @@ Built and tested on [AmberELEC](https://AmberELEC.org).
 
 ---
 
-Rework for 351ELEC Project and rg351p/m devices by szalik
-
 # Credits
 Original theme by: Grila
 
